@@ -35,4 +35,8 @@ git branch -a
 -Switching from one branch to another
 git switch (branch_name)
 
+- Merging created branch to main branch
+git merge [branch_name]
 
+- Deleting branches 
+git branch -d [branch_name]
